@@ -28,8 +28,8 @@ Desarrollo **web y móvil** con foco en **educación interactiva**, **gamificaci
 |---|----------|------|
 | ★ | [**LOGIKA**](https://github.com/KUTEIMO/LOGIKA) — Matemáticas discretas gamificadas (Logiko, Firebase) | [Web](https://logika-cad29.web.app) |
 | | [**PEFCMEEM-MOVIL**](https://github.com/KUTEIMO/PEFCMEEM-MOVIL) — EULER, Flutter + Firebase | [Web](https://pefcmeem-633d9-e5f18.web.app) |
-| | [**ecuaciones-simulador**](https://github.com/KUTEIMO/ecuaciones-simulador) — Streamlit, AMB, EDOS | — |
-| | [**simulador-compilador-sql**](https://github.com/KUTEIMO/simulador-compilador-sql) — Compilador SQL didáctico | — |
+| | [**ecuaciones-simulador**](https://github.com/KUTEIMO/ecuaciones-simulador) — Streamlit, AMB, EDOS | [Streamlit](https://ecuaciones-roots-simulador.streamlit.app) |
+| | [**simulador-compilador-sql**](https://github.com/KUTEIMO/simulador-compilador-sql) — Compilador SQL didáctico | [Streamlit](https://simulador-compilador-sql-mveyat4jbbhzrcdfjtu5lk.streamlit.app/) |
 
 ### ConectaU
 
