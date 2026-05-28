@@ -42,7 +42,7 @@ Identifico **problemas reales** y construyo **productos de software de alto impa
 
 | | Producto |
 |---|----------|
-| | [**Tour 360 accesible**](https://github.com/KUTEIMO/PROTOTIPO-360-CURSOR-V1) — WCAG / MinTIC |
+| | [**Tour 360 accesible**](https://github.com/KUTEIMO/prototipo-360-v1-tested) — WCAG / MinTIC |
 
 ---
 
