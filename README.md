@@ -42,6 +42,7 @@ Identifico **problemas reales** y construyo **productos de software de alto impa
 
 | | Producto |
 |---|----------|
+| | [**EULER Web**](https://github.com/KUTEIMO/EULER-web) · [**EULER App**](https://github.com/KUTEIMO/PEFCMEEM-MOVIL) — matemáticas 9–11 |
 | | [**Tour 360 accesible**](https://github.com/KUTEIMO/prototipo-360-v1-tested) — WCAG / MinTIC |
 
 ---
